@@ -1,7 +1,7 @@
 //your code here
 void setup()
 {
-	//your code here
+	size(400,400);//your code here
 }
 void draw()
 {
